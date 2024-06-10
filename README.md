@@ -1,4 +1,4 @@
-# ___Web Page Body Background Color Changer with Vanilla Javascript ___
+# ___Web Page Body Background Color Changer with Vanilla Javascript___
 
 ### __Step 1__
 

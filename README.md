@@ -16,6 +16,9 @@ Extract zip file on your system
 cd colorChanger-main
 ```
 ```
+npm i
+```
+```
 npm run dev
 ```
 
